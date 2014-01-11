@@ -9,10 +9,8 @@ if (system.args.length === 1) {
 
 addr = system.args[1];
 page.open(addr, function(status){
-	page.includeJs('http://http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js', function() {
-		var title = page.evaluate(function() {
-			return document.title;
-		});
-		console.log('Page title is ' + title);
+	var title = page.evaluate(function() {
+		return document.title;
 	});
+	console.log('Page title is ' + title);
 });
