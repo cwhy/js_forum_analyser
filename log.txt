@@ -1,8 +1,0 @@
-Start evaluating http://bbs.tianya.cn/post-333-404298-1.shtml
-SyntaxError: Parse error
-
-Retrieving info from: http://bbs.tianya.cn/post-333-404298-2.shtml
-Retrieving info from: http://bbs.tianya.cn/post-333-404298-3.shtml
-Retrieving info from: http://bbs.tianya.cn/post-333-404298-4.shtml
-Retrieving info from: http://bbs.tianya.cn/post-333-404298-5.shtml
-Retrieving info from: http://bbs.tianya.cn/post-333-404298-6.shtml
